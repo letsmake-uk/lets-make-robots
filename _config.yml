@@ -7,7 +7,7 @@ author:
   url: "http://seymoursmith.net"
 
 # Build settings
-baseurl: /lets-make-robots-course-material
+baseurl: /lets-make-robots-course-material/
 markdown: kramdown
 source: .
 destination: ./_site
