@@ -24,4 +24,4 @@ void loop()
 {% endhighlight %}
 
 
-This is a bit of a confusing place to start if you have never done any programming, but luckily for us some clever folks in Spain have made a tool called S4A (or Scratch for Arduino) that let's us control the Arduino using custom blocks that they have added to Scratch. For an intro to S4A, go check out the <a href="{{ site.url }}{% post_url 2015-04-30-week-1-worksheet %}">Week 1 Worksheet</a>.
+This is a bit of a confusing place to start if you have never done any programming, but luckily for us some clever folks in Spain have made a tool called S4A (or Scratch for Arduino) that let's us control the Arduino using custom blocks that they have added to Scratch. 
