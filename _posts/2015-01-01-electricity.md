@@ -1,5 +1,5 @@
 ---
-title: Lesson 1 - Electronics
+title: Electricity
 ---
 
 ## Circuits
@@ -12,10 +12,10 @@ These power sources always have a postive (+) and a negative (-) end. A working 
 
 One important thing to remember is that electricity will only travel around a circuit that is **complete** - that means that there is an unbroken connection between the positive and negative ends.
 
-![Light off](../img/dharma-lesson-1/bs_circuit_off.gif "Circuit off")
+![Light off](../img/bs_circuit_off.gif "Circuit off")
 
 
-![Light on](../img/dharma-lesson-1/bs_circuit_on.gif "Circuit on")
+![Light on](../img/bs_circuit_on.gif "Circuit on")
 
 
 ## Circuit diagrams and symbols
@@ -24,11 +24,11 @@ In order to be a useful circuit, it must also contain useful electrical componen
 Circuit diagrams are a quick and simple way to represent these myriad different circuits so that you can share your electronic circuits with others. They use symbols to represent physical components like bulbs, switches and motors:
 
 
-![Circuit symbols](../img/dharma-lesson-1/circuit_symbols.gif "Circuit symbols")
+![Circuit symbols](../img/circuit_symbols.gif "Circuit symbols")
 
 The light bulb circuits we saw above can be represented by these circuit diagrams:
 
 
-![Diagram off](../img/dharma-lesson-1/light_on.gif "Diagram off")
+![Diagram off](../img/light_on.gif "Diagram off")
 
-![Diagram on](../img/dharma-lesson-1/light_off.gif "Diagram on")
+![Diagram on](../Img/light_off.gif "Diagram on")
