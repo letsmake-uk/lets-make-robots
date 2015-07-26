@@ -1,3 +1,7 @@
+---
+title: Servos
+---
+
 So now we will look at how we can use all the lessons we have learned from doing our morse code to help us make something a bit more robot-y, and control a servo motor. Servo motors are used all over the place in robotics. Servo motors are different to regular motors, because we can tell them exactly where to move to, which is pretty handy when you want your robot to move it's arm to a specific place.
 
 

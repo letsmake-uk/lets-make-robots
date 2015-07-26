@@ -1,10 +1,6 @@
 ---
-layout: post
-title: Week 2 - Worksheet
+title: Morse Code
 ---
-
-
-## Morse Code
 
 <br>
 Some of you last week noticed that with our LED switch, we could send messages in <a href="http://en.wikipedia.org/wiki/Morse_code">Morse code</a> if we wanted to. This is a really cool idea, so we thought we'd look at it in a bit more detail and see if we can maybe even get scratch to send some messages in morse code by itself. For those of you that don't know what Morse code is, here's the wikipedia definition : 
@@ -49,6 +45,4 @@ So that we can understand everyone's Morse code, let's all use 0.1 seconds as th
 
 <br>
 Have a go at making a program that sends your name in Morse code, and then we'll talk about how different people have approached the problem, and show you how we decided to do it.
-
-
 

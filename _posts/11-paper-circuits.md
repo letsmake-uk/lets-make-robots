@@ -1,9 +1,6 @@
 ---
-layout: post
-title: Week 4 - Paper circuits
+title: Paper circuits
 ---
-
-## Switch Recap
 
 <br>
 

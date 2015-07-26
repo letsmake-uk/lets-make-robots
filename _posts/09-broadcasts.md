@@ -1,9 +1,7 @@
 ---
-layout: post
-title: Week 3 - Let's send morse!!!!
+title: Broadcasts in S4A
 ---
 
-<br>
 So, last week we wrote some programs to send messages in morse code by blinking an LED. 
 
 Unfortunately our little light sniffing companion didn't work as well as we'd hoped. We didn't have time to test him with enough different programs and he missed a lot of what looked to us like perfectly good morse code so firstly, apologies for that. 
@@ -129,27 +127,3 @@ Writing these scripts for every single letter in the alphabet is going to take a
 <img border="0" alt="Download Morse Program" src="../img/mind-blown-stars.gif" width="400">
 </a>
 
-
-<!--
-![Keanu's Mind Blown](../img/keanue-reeves-mind-blown.jpg "Keanu's Mind Blown")
-
-
-![Jon's Mind Blown](../img/jon-stewart-mind-blown.gif "Jon's Mind Blown")
-
-
-## Controlling Servos
-
-![Servo 1](../img/servo1.png "Servo 1")
-
-![Servo 2](../img/servo2.png "Servo 2")
-
-![Servo 3](../img/servo3.png "Servo 3")
-
-![Servo 4](../img/servo4.png "Servo 4")
-
-![Servo 5](../img/servo5.png "Servo 5")
-
-![Servo 6](../img/servo6.png "Servo 6")
-
-![Servo 7](../img/servo7.png "Servo 7")
--->

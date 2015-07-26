@@ -1,42 +1,6 @@
 ---
-layout: post
-title: Week 2 - Basic electronics
+title: Basic electronics: Ohm's law
 ---
-
-## Recapping: The Arduino 
-
-
-Last week we introduced the <a href="http://arduino.cc">Arduino</a>; a tiny, programmable computer with dozens of inputs and outputs that we can use to electronically sense and manipulate the world around us:
-
- 
-![Arduino Uno](../img/arduinoDiagram2.png "An Arduino Uno")
-
-
-We introduced a couple of the Arduino's basic features: its in-built LED (Light Emitting Diode), its digital output (which we used to light up an external, super-bright LED), and its digital input (which we used, briefly, to make a control switch).
-
-
-Later today we're going to take a bit of a closer look at the details of how the electrical signals on the Arduino's pins work.
-
-
-## Recapping: Scratch for Arduino (S4A)
-
-
-We also introduced a programming environment for the Arduino called <a href="http://s4a.cat">Scratch 4 Arduino</a> (S4A). Which is based on the popular <a href="http://scratch.mit.edu">Scratch </a> programming environment:
-
-
-![S4A Logo](../img/S4A logo.png "S4A Logo")
-
-
-We familiarised ourselves with some of S4A's blocks for controlling the Arduino (under "motion"), and wrote programs to blink lights on and off automatically, or using the mouse and the keyboard (and even voice control!).
-
-
-It's worth remembering that S4A is only *one* way of specifying instructions for the Arduino, which makes it really quick and easy to get started. The official <a href= "http://www.arduino.cc/en/Main/Software">Arduino IDE</a> (Integrated Development Environment) is another way that's a little bit more difficult to get started with, but gives you access to the full speed and capabilities of the Arduino. Here's a comparison of the basic "blinking lights" program we wrote last week, shown using the Arduino IDE and S4A side-by-side:
-
-
-![Arduino-S4A Comparison](../img/arduinoS4A.png "Arduino-S4A Comparison")
-
-
-## Some basic electronics: Ohm's law
 
 Electricity is the flow of energy (in the form of electrons), through conductive materials like metal. 
 
