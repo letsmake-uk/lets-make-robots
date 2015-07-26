@@ -6,7 +6,7 @@ title: Electricity
 
 Electricity is a type of energy source that can be used to power a huge range of useful devices. We can get electric energy from a variety of sources - Power stations that burn fossil fuels or use water and theogermal energy, solar panels, batteries that use chemical energy, and even hand-powered dynamos. 
 
-![Energy sources](../img/dharma-lesson-1/energy_sources.jpeg "UK energy sources")
+![Energy sources](../img/energy_sources.jpeg "UK energy sources")
 
 These power sources always have a postive (+) and a negative (-) end. A working electronic circuit always needs a power source, and its wires must connected to both the positive (+) and negative (-) ends. 
 
