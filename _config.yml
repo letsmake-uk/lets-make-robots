@@ -1,13 +1,13 @@
 # Site settings
-title: Let's Build Robots!
+title: Let's Make Robots!
 description: "A website resource for Maker Lab's robotics course, held in April 2015 in Brighton, UK"
-url: "http://letsmake.io/lets-make-robots"
+url: "http://letsmake.io/lets-make-robots-course-material"
 author:
   name: "N. Seymour-Smith and L. d'Aboville"
   url: "http://seymoursmith.net"
 
 # Build settings
-baseurl: /lets-make-robots/
+baseurl: /lets-make-robots-course-material
 markdown: kramdown
 source: .
 destination: ./_site
